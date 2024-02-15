@@ -1,0 +1,48 @@
+{
+    "logoText": "Read Online And Free Books",
+
+   
+    "themeing": "Themeing",
+
+    
+    "light": "Light",
+       
+       
+    "dark": "Dark",
+       
+       
+    "searchYourBook": "Search Your Book",
+       
+       
+    "searchResult": "Search Result",
+       
+       
+    "email": "Email",
+       
+       
+    "home": "Home",
+           
+    "setting": "Setting",
+           
+    "logOut": "LogOut",
+           
+    "enterPassword": "Enter Password",
+           
+    "login": "Login",
+            
+    "enterEmail": "Enter Email",
+                   
+    "password": "Password",
+                   
+    "dontHaveAnAccount": "Don't Have An Account ?",
+                   
+    "creatOne": "Creat One",
+           
+                       
+    "signUp": "SignUp",
+                           
+    "alreadyHaveAnAccount": "Already Have An Account ?",
+    "newsetBooks":"Newset Books",
+    "alsoLiked":"You can also like"
+          
+}

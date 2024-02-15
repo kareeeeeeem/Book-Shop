@@ -1,0 +1,47 @@
+{
+ "logoText": "اقراء كتب الكترونيه ومجانيه",
+    
+ "themeing": "النسق",
+
+    
+ "light": "فاتح",
+    
+    
+ "dark": "غامق",
+    
+    
+ "searchYourBook": "ابحث عن كتابك",
+    
+    
+ "searchResult": "نتائج البحث",
+    
+    
+ "email": "الحساب",
+    
+    
+ "home": "الصفحه الرائيسيه",
+        
+ "setting": "الاعدادات",
+        
+ "logOut": " تسجيل الخروج",
+        
+ "enterPassword": "ادخل كلمه السر",
+        
+ "login": "تسجيل الدخول",
+         
+ "enterEmail": " ادخل حسابك",
+                
+ "password": " كلمه السر",
+                
+ "dontHaveAnAccount": " ليس لديك حساب ؟",
+                
+ "creatOne": "انشاء واحدا",
+        
+                    
+ "signUp": "التسجيل",
+                        
+ "alreadyHaveAnAccount": "لديك حساب ب الفعل ؟",
+ "newsetBooks":"احدث الكتب",
+ "alsoLiked":"قد يعجبك ايضاا"
+        
+}
